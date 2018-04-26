@@ -16,8 +16,6 @@ class Rsd
      */
     public function handle($request, Closure $next)
     {
-        // $variable  = config('reserved-subdomains.variable');
-        // $subdomain = $request->{$variable};
         $driver    = config('reserved-subdomains.driver');
         $host      = $request->getHost();
         $subdomain = explode('.', $host)[0];
