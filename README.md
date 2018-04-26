@@ -1,8 +1,8 @@
 # Laravel Reserved Subdomains
 
-[![Latest Version on Packagist](https://img.shields.io/packagist/v/kristories/laravel-rsd.svg?style=flat-square)](https://packagist.org/packages/kristories/laravel-rsd)
+[![Latest Version on Packagist](https://img.shields.io/packagist/v/Kristories/laravel-rsd.svg?style=flat-square)](https://packagist.org/packages/Kristories/laravel-rsd)
 [![Software License](https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat-square)](LICENSE.md)
-[![Build Status](https://img.shields.io/travis/kristories/laravel-rsd/master.svg?style=flat-square)](https://travis-ci.org/kristories/laravel-rsd)
+[![Build Status](https://img.shields.io/travis/Kristories/laravel-rsd/master.svg?style=flat-square)](https://travis-ci.org/Kristories/laravel-rsd)
 
 Subdomain validator for Laravel.
 
