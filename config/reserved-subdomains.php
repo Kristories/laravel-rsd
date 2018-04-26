@@ -40,6 +40,7 @@ return [
         'private',
         'reserved',
         'status',
+        'test',
     ],
 
 ];
